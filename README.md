@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Solvehaider/Solvehaider/blob/main/banner%20(2).jpg)
+![MasterHead](https://github.com/Solvehaider/Solvehaider/blob/main/newbanner.jpg)
 
 <h1 align="center">Hey there! 👋 I'm Haider Ali</h1> 
 <h3 align="center">AI Engineer | Generative AI Enthusiast 🚀 | Crafting Tomorrow’s Tech with Intelligent Solutions</h3> 
